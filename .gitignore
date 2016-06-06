@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+._*
+# vi
+*.swp
+# Emacs
+*~
+# ctags
+tags
+# C
+*.o
+/bin
